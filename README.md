@@ -74,14 +74,18 @@ module EXP_6(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using â€
   assign q_bar = ~q;
 endmodule
 ```
+
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/23004513/SR-FLIPFLOP-USING-CASE/assets/138973069/2e7d6ca0-c02b-4c31-b3eb-f90bb1b7e0a5)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![image](https://github.com/23004513/SR-FLIPFLOP-USING-CASE/assets/138973069/78e77503-f09f-4696-8e28-41ec277e5350)
 
 
 **RESULTS**
+
 
 The observation of the simulation results and confirm the successful execution of the program.
